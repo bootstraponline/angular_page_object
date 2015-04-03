@@ -1,4 +1,9 @@
 =begin
+
+executeAsyncScript_ & executeScript_ wrappers not required. The description
+is visible only at the node.js level using a debugger,
+it's not sent to the selenium server.
+
 Server trace from executing browser.get('http://www.angularjs.org')
 
 Protractor.prototype.get // protractor.js
