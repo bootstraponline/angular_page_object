@@ -1,6 +1,6 @@
-module UnifiedPageObject
+module AngularPageObject
   class << self
-    # Configures UnifiedPageObject to the target platform.
+    # Configures AngularPageObject to the target platform.
     #
     # @param platform [Symbol] the platform to target
     # @return [void]

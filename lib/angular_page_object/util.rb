@@ -1,4 +1,4 @@
-module UnifiedPageObject
+module AngularPageObject
   class << self
     # Defines the page module class name in underscore case as a method
     # on the test_class. The page class is transformed into a singleton.
