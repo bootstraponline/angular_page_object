@@ -1,12 +1,8 @@
-# core
-require 'singleton' # util.rb
-
 # gems
 require 'rubygems'
-require 'rspec'
-require 'selenium-webdriver'
+require 'page-object'
 
 # internal
-require_relative 'angular_page_object/config'
-require_relative 'angular_page_object/util'
 require_relative 'angular_page_object/version'
+require_relative 'angular_page_object/fix_watir_find_by_css'
+
