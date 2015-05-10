@@ -18,7 +18,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'page-object', '~> 1.1.0'
   spec.add_runtime_dependency 'selenium-webdriver', '>= 2.45.0'
   spec.add_runtime_dependency 'watir-webdriver', '>= 0.7.0'
-  spec.add_runtime_dependency 'angular_webdriver', '>= 0.0.5'
+  spec.add_runtime_dependency 'angular_webdriver', '>= 0.0.6'
 
   spec.add_development_dependency 'rspec', '~> 3.2.0'
   spec.add_development_dependency 'appium_thor', '~> 0.0', '>= 0.0.7'
