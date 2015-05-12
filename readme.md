@@ -1,1 +1,3 @@
-# angular_page_object
+# angular_page_object [![Gem Version](https://badge.fury.io/rb/angular_page_object.svg)](http://badge.fury.io/rb/angular_page_object)
+
+angular enhancements to the page_object gem
