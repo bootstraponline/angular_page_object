@@ -7,6 +7,6 @@ module PageObject
   # This is different from goto which will not wait for angular.
   def visit
     goto # uses page_url
-    protractor.waitForAngular
+    wait(timeout: 60) { protractor.waitForAngular }
   end
 end
