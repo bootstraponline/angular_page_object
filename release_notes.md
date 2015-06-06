@@ -1,3 +1,11 @@
+#### v0.0.6 2015-06-06
+
+- [5085ea2](https://github.com/bootstraponline/angular_page_object/commit/5085ea23e5db4fe9390a51de8370ffdd2427e0b8) Release 0.0.6
+- [3a00534](https://github.com/bootstraponline/angular_page_object/commit/3a00534354e680eed90db05eff65a7da55da8174) Update dependencies
+- [6bf6718](https://github.com/bootstraponline/angular_page_object/commit/6bf671832a6da323e55f38d7768a4cd6876db191) Remove visit. Add element default tag_name
+- [7b02872](https://github.com/bootstraponline/angular_page_object/commit/7b02872ba70edffa84d9fe62a6d51d4c89b24eb6) Update readme.md
+
+
 #### v0.0.5 2015-05-12
 
 - [f555054](https://github.com/bootstraponline/angular_page_object/commit/f555054823524d9795d2462cf607098d70b4074f) Release 0.0.5
