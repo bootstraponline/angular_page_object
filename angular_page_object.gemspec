@@ -16,10 +16,8 @@ Gem::Specification.new do |spec|
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
 
   spec.add_runtime_dependency 'page-object', '~> 1.1.0'
-  spec.add_runtime_dependency 'selenium-webdriver', '>= 2.45.0'
+  spec.add_runtime_dependency 'selenium-webdriver', '>= 2.46.2'
   spec.add_runtime_dependency 'watir-webdriver', '>= 0.7.0'
-  spec.add_runtime_dependency 'angular_webdriver', '>= 0.0.7'
-  spec.add_runtime_dependency 'webdriver_utils', '>= 0.0.3'
 
   spec.add_development_dependency 'rspec', '~> 3.2.0'
   spec.add_development_dependency 'appium_thor', '~> 0.0', '>= 0.0.7'

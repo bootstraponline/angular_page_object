@@ -1,8 +1,6 @@
 # gems
 require 'rubygems'
 require 'page-object'
-require 'angular_webdriver'
-require 'webdriver_utils'
 
 # internal
 require_relative 'angular_page_object/version'
