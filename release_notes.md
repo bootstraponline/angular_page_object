@@ -1,3 +1,8 @@
+#### v1.0.0 2015-06-06
+
+- [67652ce](https://github.com/bootstraponline/angular_page_object/commit/67652ce54a625fb59e1ec4ee56f52b159daafce4) Release 1.0.0
+
+
 #### v0.0.6 2015-06-06
 
 - [5085ea2](https://github.com/bootstraponline/angular_page_object/commit/5085ea23e5db4fe9390a51de8370ffdd2427e0b8) Release 0.0.6
