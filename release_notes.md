@@ -1,3 +1,9 @@
+#### v1.0.1 2015-06-19
+
+- [937e07c](https://github.com/bootstraponline/angular_page_object/commit/937e07cdd19f161a3943f52d558549892f244a6b) Release 1.0.1
+- [e80bbf3](https://github.com/bootstraponline/angular_page_object/commit/e80bbf3034009c1582bfac9f27efd0c85e09cc2e) Use page_object fork
+
+
 #### v1.0.0 2015-06-06
 
 - [67652ce](https://github.com/bootstraponline/angular_page_object/commit/67652ce54a625fb59e1ec4ee56f52b159daafce4) Release 1.0.0
