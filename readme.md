@@ -1,4 +1,4 @@
-Note: Use the [page_object](github.com/bootstraponline/page_object) fork instead.
+Note: Use the [page_object](https://github.com/bootstraponline/page_object) fork instead.
 angular_page_object is obsolete.
 
 # angular_page_object
